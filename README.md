@@ -1,6 +1,6 @@
-# Elasticsearch Curator
+# elasticsearch-curator
 
-[![Build Status](https://github.dronehippie.de/api/badges/toolhippie/elasticsearch-curator/status.svg)](https://github.dronehippie.de/toolhippie/elasticsearch-curator)
+[![Build Status](https://cloud.drone.io/api/badges/toolhippie/elasticsearch-curator/status.svg)](https://cloud.drone.io/toolhippie/elasticsearch-curator)
 [![](https://images.microbadger.com/badges/image/toolhippie/elasticsearch-curator:latest.svg)](https://microbadger.com/images/toolhippie/elasticsearch-curator:latest "Get your own image badge on microbadger.com")
 
 TBD
