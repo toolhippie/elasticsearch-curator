@@ -1,6 +1,5 @@
 FROM webhippie/python:3.7
-
-ENTRYPOINT ["/usr/bin/curator"]
+ENTRYPOINT [""]
 
 # renovate: datasource=pypi depName=elasticsearch-curator
 ENV ELASTICSEARCH_CURATOR_VERSION=5.8.4

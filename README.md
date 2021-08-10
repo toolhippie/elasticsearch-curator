@@ -1,11 +1,8 @@
 # elasticsearch-curator
 
-[![Docker Build](https://github.com/toolhippie/elasticsearch-curator/workflows/docker/badge.svg)](https://github.com/toolhippie/elasticsearch-curator/actions?query=workflow%3Adocker) [![Docker Size](https://img.shields.io/docker/image-size/toolhippie/elasticsearch-curator/latest)](https://hub.docker.com/r/toolhippie/elasticsearch-curator) [![Docker Pulls](https://img.shields.io/docker/pulls/toolhippie/elasticsearch-curator)](https://hub.docker.com/r/toolhippie/elasticsearch-curator)
+[![Docker Build](https://github.com/toolhippie/elasticsearch-curator/workflows/docker/badge.svg)](https://github.com/toolhippie/elasticsearch-curator/actions?query=workflow%3Adocker) [![Docker Size](https://img.shields.io/docker/image-size/toolhippie/elasticsearch-curator/latest)](https://hub.docker.com/r/toolhippie/elasticsearch-curator) [![Docker Pulls](https://img.shields.io/docker/pulls/toolhippie/elasticsearch-curator)](https://hub.docker.com/r/toolhippie/elasticsearch-curator) [![GitHub Repo](https://img.shields.io/badge/github-repo-yellowgreen)](https://github.com/toolhippie/elasticsearch-curator) [![Upstream Repo](https://img.shields.io/badge/upstream-repo-yellow)](https://github.com/elastic/curator)
 
 **All these images are used for various scriptings, it's possible that any of these tools are updated randomly**
-
-* [GitHub](https://github.com/toolhippie/elasticsearch-curator)
-* [Upstream](https://github.com/elastic/curator)
 
 ## Versions
 
@@ -17,7 +14,7 @@ Fork -> Patch -> Push -> Pull Request
 
 ## Authors
 
-* [Thomas Boerger](https://github.com/tboerger)
+*  [Thomas Boerger](https://github.com/tboerger)
 
 ## License
 
@@ -25,6 +22,6 @@ MIT
 
 ## Copyright
 
-```
+```console
 Copyright (c) 2018 Thomas Boerger <http://www.webhippie.de>
 ```
