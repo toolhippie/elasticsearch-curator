@@ -1,4 +1,4 @@
-FROM webhippie/python:3.7
+FROM webhippie/python:3.9
 ENTRYPOINT [""]
 
 # renovate: datasource=pypi depName=elasticsearch-curator
