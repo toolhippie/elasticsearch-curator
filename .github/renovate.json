@@ -3,10 +3,12 @@
     "extends": [
         "github>webhippie/renovate:docker"
     ],
-    "packageRules": [{
-        "groupName": "elasticsearch-curator packages",
-        "matchDatasources": [
-            "pypi"
-        ]
-    }]
+    "packageRules": [
+        {
+            "groupName": "elasticsearch-curator packages",
+            "matchDatasources": [
+                "pypi"
+            ]
+        }
+    ]
 }
