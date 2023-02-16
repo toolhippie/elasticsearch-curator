@@ -2,7 +2,7 @@ FROM webhippie/alpine:3.17
 ENTRYPOINT [""]
 
 # renovate: datasource=pypi depName=elasticsearch-curator
-ENV ELASTICSEARCH_CURATOR_VERSION=8.0.1
+ENV ELASTICSEARCH_CURATOR_VERSION=8.0.2
 
 RUN apk update && \
   apk upgrade && \
