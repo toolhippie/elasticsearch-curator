@@ -1,4 +1,4 @@
-FROM ghcr.io/webhippie/alpine:3.17
+FROM ghcr.io/dockhippie/alpine:3.17
 ENTRYPOINT [""]
 
 # renovate: datasource=pypi depName=elasticsearch-curator
