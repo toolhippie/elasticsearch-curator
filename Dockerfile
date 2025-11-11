@@ -2,7 +2,7 @@ FROM ghcr.io/dockhippie/alpine:3.22@sha256:c5bd9014e136d50a0d82c511a4fcf52a2ef43
 ENTRYPOINT [""]
 
 # renovate: datasource=pypi depName=elasticsearch-curator
-ENV ELASTICSEARCH_CURATOR_VERSION=8.0.21
+ENV ELASTICSEARCH_CURATOR_VERSION=9.0.0
 
 RUN apk update && \
   apk upgrade && \
